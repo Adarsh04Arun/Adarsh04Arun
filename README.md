@@ -6,7 +6,7 @@ I work where ML systems meet adversaries. Most of what I build answers one quest
 **what happens when this model is given something it should refuse?**
 
 Currently building guardrails for agentic healthcare AI **@ XelerAIT**.
-CS undergrad at BNMIT (CGPA 9.70).
+CS undergrad at BNMIT.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-adarsh04arun.in-5b8aae?style=flat-square)](https://adarsh04arun.in)
 [![LinkedIn](https://img.shields.io/badge/linkedin-adarsh3arun-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh3arun)
